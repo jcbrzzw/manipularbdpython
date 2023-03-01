@@ -6,7 +6,7 @@ CRUD SQL
 
 * Read (Ler) - extrair dados de um banco de dados e armazenar em diversos formatos.
 
-* *Update (Atualizar) - fazer alterações nos registros existentes no banco de dados.
+* Update (Atualizar) - fazer alterações nos registros existentes no banco de dados.
 
 * Delete (Apagar) - remover registros que não são mais necessários
 
