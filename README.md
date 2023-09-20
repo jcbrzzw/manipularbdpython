@@ -31,7 +31,6 @@ O código ajuda a gerenciar informações em um banco de dados MySQL usando Pyth
 
 
 
-Regenerar
 
 
 
