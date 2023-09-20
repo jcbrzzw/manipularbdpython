@@ -5,7 +5,7 @@
 
 
 #### 📍 Conexão com o Banco de Dados: 
-O código estabelece uma conexão com um banco de dados MySQL. Isso é como abrir uma porta para acessar informações armazenadas em um banco de dados.
+O código estabelece uma conexão com um banco de dados SQL. Isso é como abrir uma porta para acessar informações armazenadas em um banco de dados.
 
 #### 📍 Criação de Tabelas: 
 Ele cria tabelas no banco de dados, como uma tabela para armazenar informações de professores, clientes, participantes e cursos. Pense nas tabelas como folhas de Excel onde você pode armazenar diferentes tipos de informações.
@@ -23,15 +23,11 @@ Você pode atualizar ou excluir informações do banco de dados. Por exemplo, se
 O código mostra como os resultados das consultas podem ser formatados em diferentes estruturas, como listas ou até mesmo em um formato mais elaborado chamado DataFrame do Pandas, que é uma maneira conveniente de organizar dados tabulares.
 
 #### 📍 Instalação de Bibliotecas: 
-Há também instruções para instalar duas bibliotecas Python importantes, mysql-connector-python e pandas, que ajudam na comunicação com o banco de dados e na manipulação de dados de forma eficiente.
+Há também instruções para instalar duas bibliotecas Python importantes, sql-connector-python e pandas, que ajudam na comunicação com o banco de dados e na manipulação de dados de forma eficiente.
 
-O código ajuda a gerenciar informações em um banco de dados MySQL usando Python, incluindo a inserção, recuperação, atualização e exclusão de dados, bem como a formatação de resultados para facilitar a leitura e análise. É útil para aplicativos que precisam armazenar e acessar dados de maneira organizada.
-
-
+O código ajuda a gerenciar informações em um banco de dados SQL usando Python, incluindo a inserção, recuperação, atualização e exclusão de dados, bem como a formatação de resultados para facilitar a leitura e análise. É útil para aplicativos que precisam armazenar e acessar dados de maneira organizada.
 
 
-
-Regenerar
 
 
 
